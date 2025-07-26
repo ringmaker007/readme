@@ -60,7 +60,6 @@ I'm aiming to:
 Feel free to connect or reach out:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kharanshu-motwani-086659240/) 
--
 - 📫 Email: kharanshumotwani7@gmail.com
 
 ---
