@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm [Your Name]!
+# 👋 Hey there, I'm Kharanshu Motwani!
 
 I'm a passionate second-year Information Technology engineering student at **Thadomal Shahani Engineering College**, currently building my skills and portfolio in full-stack development.
 
