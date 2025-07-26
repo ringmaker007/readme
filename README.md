@@ -51,9 +51,9 @@ I'm aiming to:
 
 Feel free to connect or reach out:
 
-- 💼 [LinkedIn](https://www.linkedin.com) *(update with your profile link)*
-- 🌐 [Portfolio](https://your-portfolio-link.com) *(optional)*
-- 📫 Email: your.email@example.com *(replace with your email)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/kharanshu-motwani-086659240/)
+
+- 📫 Email:kharanshumotwani7@gmail.com
 
 ---
 
