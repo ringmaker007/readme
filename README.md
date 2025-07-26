@@ -10,8 +10,15 @@ I'm a passionate second-year Information Technology engineering student at **Tha
 - 🔹 **Frontend**: React.js
 - 🔹 **Backend**: Node.js
 - 🔹 **Learning Now**: Next.js, Java
+- 🔹 **DSA**: Solving Data Structures and Algorithms problems in **C/C++**
 
-I'm continuously learning, exploring new frameworks, and building meaningful web applications that solve real-world problems.
+---
+
+## 🧠 Competitive Programming
+
+- ✅ Participated in multiple contests on **Codeforces** and **CodeChef**
+- ✅ Currently practicing on **LeetCode** and **Codewars**
+- 🏹 Constantly improving problem-solving skills through DSA and competitive coding
 
 ---
 
@@ -33,7 +40,8 @@ I'm continuously learning, exploring new frameworks, and building meaningful web
 
 - 💻 Started with problem-solving in **C/C++**
 - 💡 Transitioned into web development with **React** and **Node.js**
-- 🔍 Currently diving into **Next.js** and **Java** to expand backend and framework knowledge
+- 🔍 Currently diving into **Next.js** and **Java**
+- 🧠 Focused on mastering **DSA** and excelling in **competitive programming**
 
 ---
 
@@ -51,9 +59,9 @@ I'm aiming to:
 
 Feel free to connect or reach out:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/kharanshu-motwani-086659240/)
-
-- 📫 Email:kharanshumotwani7@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/kharanshu-motwani-086659240/) 
+-
+- 📫 Email: kharanshumotwani7@gmail.com
 
 ---
 
